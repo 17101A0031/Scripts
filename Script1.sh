@@ -2,5 +2,6 @@ echo "We are trying this practical from linux EC2"
 echo "We are learning Branching"
 echo "I am learning Git"
 echo "I am learning Devops"
-echo "This change is made by Master"
+echo "I love AWS"
+echo "I learn it"
 
